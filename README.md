@@ -34,7 +34,7 @@ O uso da Maket, foi necessário afim de produzir uma maquete real de um apartame
 da empresa
 
 ## 🚀 Resultados
-<img src="https://exemplo.com/logo.png" alt="Logo da Minha Empresa">
+<img src="imagens/visualizer-image.jpg (2).jpg" alt="Apartamento">
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
