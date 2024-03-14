@@ -20,19 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+ECC - Ethernal construction company
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Nesse projeto foi cosntruido a ideia de gerar uma empresa no ramo de construção utilizando IA generativa
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+OpenAi, Maket e Leonardo.Ai . Foram as IAs utilizadas
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utiliza-se do OpenAi, para fazer uma descrição da empresa. Além disso, apresenta as ideias gerais de 3 maquetes de um apartamento.
+O uso da Maket, foi necessário afim de produzir uma maquete real de um apartamento e por fim o Leonardo.Ai foi preciso para fazer uma logo
+da empresa
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+<img src="https://exemplo.com/logo.png" alt="Logo da Minha Empresa">
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
