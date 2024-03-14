@@ -19,7 +19,6 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
 ECC - Ethernal construction company
 
 ## 📒 Descrição
