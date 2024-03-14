@@ -34,7 +34,16 @@ O uso da Maket, foi necessário afim de produzir uma maquete real de um apartame
 da empresa
 
 ## 🚀 Resultados
+Introdução
+
+Caros clientes, é com grande entusiasmo que venho apresentar a vocês a Ethernal Construction Company (ECC), uma empresa que representa a excelência, inovação e comprometimento no setor da construção civil. Com uma equipe de engenheiros altamente qualificados e uma vasta experiência no mercado, estamos prontos para atender às necessidades mais exigentes em projetos de construção.
+
+Missão:
+
+Na ECC, nossa missão é construir não apenas edifícios, mas sim comunidades sustentáveis, infraestruturas sólidas e ambientes que promovam o bem-estar e o progresso. Nosso compromisso com a qualidade, segurança e respeito ao meio ambiente é inabalável em cada projeto que realizamos.
+
 <img src="imagens/visualizer-image.jpg (2).jpg" alt="Apartamento">
+<img src="imagens/Default_Create_a_unique_and_visually_descriptive_logo_for_Ethe_3.jpg" alt="Logo da Empresa">
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
